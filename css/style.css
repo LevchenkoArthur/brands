@@ -612,6 +612,7 @@ footer{
 	font-style: italic;
 	font-weight: 400;
 	line-height: 22px; 
+	margin-bottom: 37px;
 }
 
 
@@ -621,4 +622,19 @@ footer{
 
 .container__footer form div textarea{
 	resize: none;
+}
+
+.container__footer img{
+	text-align: center;
+	margin-bottom: 14px;
+}
+
+.container__footer p{
+	color: rgba(255, 255, 255, 0.40);
+	text-align: center;
+	font-family: 'Vollkorn', serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 22px; /* 146.667% */
 }
